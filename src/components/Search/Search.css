@@ -1,0 +1,13 @@
+.searchContainer {
+  padding-top: 5px;
+}
+
+.searchInput {
+  flex-shrink: 1;
+  flex-grow: 1;
+
+}
+
+.searchBtn {
+  flex-grow: 0;
+}
